@@ -1,24 +1,30 @@
 # J3K
-เป็นคนสมุทรสาคร แม่เป็นพยาบาล พ่อเป็นจ่าเกษียณยศไปได้แค่นั้น เพราะพ่อจบนายสิบ
-ส่วนตัวเรียนราม8ปี จบมาเกรดเฉลี่ย2.00
-ปัจจุบันอายุ43ปี ผิวขาว ไม่เจ้าชู้ ไม่สูบบุหรี่
+am originally from Samut Sakhon. My mother is a nurse, and my father is a retired non-commissioned officer (NCO). His rank advancement was limited because he graduated from an NCO program rather than a military academy.
 
-สเปคผู้หญิงในดวงใจ อายุ24-33 อาชีพไม่เกี่ยง
-ฐานะไม่เกี่ยง ขออย่างเดียวไม่เป็น Single Mom
+Personally, I studied at Ramkhamhaeng University for eight years and graduated with a GPA of 2.00.
 
-สถิติการว่าความกว่า20ปี Win Rate 100
+I am currently 43 years old, fair-skinned, faithful, and I do not smoke.
 
-นิสัยเป็นพวกใจนักเลง หากเขาผิด
-เขาจะโพสขอโทษทันที ไม่เอาแล้ว พอแล้ว เลิกแล้ว
+My ideal partner is a woman aged between 24 and 33. I do not care about her profession or financial status. My only requirement is that she is not a single mother.
 
-เก่งAi ดูได้จากการใช้งาน Gemini , ChatGPT ไม่ต่ำกว่า50โพสต่อวัน
-โพสส่วนใหญ่เป็นการให้ความรู้ เรื่องกฏหมาย
-โดยเฉพาะ
-ซิงเกิลมัม
-คนอีสาน
-นายสิบ
-ผู้ช่วยพยาบาล
-Gen Z
-หนุ่มสาวโรงงาน ย่านนิคมระยอง อมตะซิตี้
-เมียฝรั่ง
-คติการทำงาน อย่าดึงฟ้าต่ำ อย่าทำหินแตก อย่ากระแทกซิงเกิลมัม
+I have over 20 years of legal practice experience with a 100% win rate.
+
+By nature, I am straightforward and accountable. If I make a mistake, I will publicly apologize immediately and move on. No excuses, no prolonging conflicts.
+
+I am highly skilled in AI technology, as demonstrated by my daily use of Gemini and ChatGPT, averaging more than 50 posts per day. Most of my posts focus on legal education and public awareness.
+
+The topics I frequently discuss include:
+
+Single mothers
+People from the Isan region
+Non-commissioned officers (NCOs)
+Nurse assistants
+Generation Z
+Factory workers in industrial estates around Rayong and Amata City
+Thai women married to foreigners
+
+My work philosophy is:
+
+"Do not try to bring the sky down.
+Do not attempt to break a stone.
+Do not attack single mothers."
